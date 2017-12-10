@@ -15,11 +15,39 @@ module.exports = {
           "originalPrice": "28.00"
         },
         {
-          "gid": "1",
+          "gid": "3",
           "pic": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1498458532978&di=70c989f1ff35d0cb0a0fb2883f4d71c6&imgtype=0&src=http%3A%2F%2Fimg.juimg.com%2Ftuku%2Fyulantu%2F140106%2F328226-14010619240768.jpg",
           "name": "澳洲肉眼牛排套餐",
           "currentPrice": "28.00",
           "originalPrice": "35.00"
+        },
+        {
+          "gid": "4",
+          "pic": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1498458532978&di=70c989f1ff35d0cb0a0fb2883f4d71c6&imgtype=0&src=http%3A%2F%2Fimg.juimg.com%2Ftuku%2Fyulantu%2F140106%2F328226-14010619240768.jpg",
+          "name": "卫龙辣条",
+          "currentPrice": "31.00",
+          "originalPrice": "46.00"
+        },
+        {
+          "gid": "5",
+          "pic": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1498458532978&di=70c989f1ff35d0cb0a0fb2883f4d71c6&imgtype=0&src=http%3A%2F%2Fimg.juimg.com%2Ftuku%2Fyulantu%2F140106%2F328226-14010619240768.jpg",
+          "name": "安尔乐沐浴液",
+          "currentPrice": "34.00",
+          "originalPrice": "50.00"
+        },
+        {
+          "gid": "6",
+          "pic": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1498458532978&di=70c989f1ff35d0cb0a0fb2883f4d71c6&imgtype=0&src=http%3A%2F%2Fimg.juimg.com%2Ftuku%2Fyulantu%2F140106%2F328226-14010619240768.jpg",
+          "name": "海飞丝洗发水",
+          "currentPrice": "28.21",
+          "originalPrice": "47.00"
+        },
+        {
+          "gid": "7",
+          "pic": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1498458532978&di=70c989f1ff35d0cb0a0fb2883f4d71c6&imgtype=0&src=http%3A%2F%2Fimg.juimg.com%2Ftuku%2Fyulantu%2F140106%2F328226-14010619240768.jpg",
+          "name": "味之园鱼肉",
+          "currentPrice": "37.00",
+          "originalPrice": "45.00"
         }
       ]
     },
@@ -40,7 +68,7 @@ module.exports = {
     {
       "name": "小吃",
       "tid": "1",
-      "recommended": false,
+      "recommended": true,
       "goods": [
         {
           "gid": "3",

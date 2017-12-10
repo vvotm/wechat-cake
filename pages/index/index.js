@@ -56,7 +56,7 @@ Page(Object.assign({}, Zan.Tab, {
       indexTab: {
         list: types,
         selectedId: orderId,
-        scroll: false
+        scroll: true
       }
     });
 
